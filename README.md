@@ -21,6 +21,6 @@ The ultimate end-to-end tutorial to create and deploy a fully decentralized Dapp
 https://medium.com/ethereum-developers/the-ultimate-end-to-end-tutorial-to-create-and-deploy-a-fully-descentralized-dapp-in-ethereum-18f0cf6d7e0e
 https://github.com/merlox/casino-ethereum
   
-5. 2 Factor authentication with Smart Contracts
+5 Two-Factor authentication with Smart Contracts
 https://blog.softwaremill.com/2-factor-authentication-with-smart-contracts-edd325f08b7a
 https://github.com/Zuchos/tufa/
