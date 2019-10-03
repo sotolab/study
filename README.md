@@ -26,3 +26,11 @@ https://github.com/merlox/casino-ethereum
 https://blog.softwaremill.com/2-factor-authentication-with-smart-contracts-edd325f08b7a
 
 https://github.com/Zuchos/tufa/
+
+
+6 truffle
+
+    $ npm install -g npm
+    $ npm install -g -production windows-build-tools
+    $ npm install -g ethereumjs-testrpc
+    $ npm install -g truffle
