@@ -34,3 +34,7 @@ https://github.com/Zuchos/tufa/
     $ npm install -g -production windows-build-tools
     $ npm install -g ethereumjs-testrpc
     $ npm install -g truffle
+
+
+7 node.js – NodeJS UDP 멀티 캐스트 방법
+https://codeday.me/ko/qa/20190325/148681.html
