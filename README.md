@@ -67,7 +67,7 @@ https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-se
 12  npm run start
  
     "scripts": {
-        "start": "nodemon ./bin/www"    //npm run start
+        "start": "nodemon ./bin/www"   
     },
   
   
