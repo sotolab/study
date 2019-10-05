@@ -70,5 +70,19 @@ https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-se
         "start": "nodemon ./bin/www"   
     },
   
-  
+ 13  solidify string compare
+ 
+      from
+      if (username == "deepak" && password == "123") //error: operator == is not compatible with string ?
+        {
+            return true;
+        } 
+     
+     to
+     
+     function compareStrings (string memory a, string memory b) public view 
+       returns (bool) {
+       return (keccak256(abi.encodePacked((a))) == keccak256(abi.encodePacked((b))) );
+       }
+ 
 
