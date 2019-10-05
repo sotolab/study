@@ -64,5 +64,11 @@ https://medium.com/@mvmurthy/full-stack-hello-world-voting-ethereum-dapp-tutoria
 
 https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-series
 
-
+12  npm run start
+ 
+    "scripts": {
+        "start": "nodemon ./bin/www"    //npm run start
+    },
+  
+  
 
