@@ -87,6 +87,8 @@ https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-se
  
  13  Struct solidity
  
+ https://coursetro.com/posts/code/102/Solidity-Mappings-&-Structs-Tutorial
+ 
     pragma solidity ^0.4.18;
 
     contract Courses {
