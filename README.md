@@ -161,3 +161,7 @@ example
                   };
                   toastr.success('www.leafcats.com', 'Toastr success!');
     });
+
+https://codeseven.github.io/toastr/demo.html
+
+https://github.com/CodeSeven/toastr/blob/master/demo.html
