@@ -128,6 +128,7 @@ https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-se
 
 
 14 Truffle: Adding a frontend with react box
+
 https://kauri.io/article/86903f66d39d4379a2e70bd583700ecf/v14/truffle:-adding-a-frontend-with-react-box
 
 
