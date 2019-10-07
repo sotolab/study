@@ -150,4 +150,14 @@ Toastr는 기본적으로 아래 네개의 기본 함수를 제공한다.
     toastr.warning('www.leafcats.com', 'Toastr warning!');
     toastr.error('www.leafcats.com', 'Toastr error!');
 
+example 
 
+    $("#test1").click(function(){
+                  toastr.options = {
+                      closeButton: true,
+                      progressBar: true,
+                      showMethod: 'slideDown',
+                      timeOut: 4000
+                  };
+                  toastr.success('www.leafcats.com', 'Toastr success!');
+    });
