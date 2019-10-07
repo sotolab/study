@@ -131,4 +131,23 @@ https://kauri.io/collection/5b8e401ee727370001c942e3/full-stack-dapp-tutorial-se
 
 https://kauri.io/article/86903f66d39d4379a2e70bd583700ecf/v14/truffle:-adding-a-frontend-with-react-box
 
+15  javascript jquery toastr.js 플러그인으로 깔끔한 토스트 메시지 구현
+
+https://www.leafcats.com/113
+
+각 임포트 해 주면 되겠다.
+
+    <script src="js/jquery-3.1.1.min.js"></script>
+    <!-- Toastr -->
+    <link href="css/plugins/toastr/toastr.min.css" rel="stylesheet">
+    <script src="js/plugins/toastr/toastr.min.js"></script>
+
+
+Toastr는 기본적으로 아래 네개의 기본 함수를 제공한다.
+
+    toastr.success('www.leafcats.com', 'Toastr success!');
+    toastr.info('www.leafcats.com', 'Toastr info!');
+    toastr.warning('www.leafcats.com', 'Toastr warning!');
+    toastr.error('www.leafcats.com', 'Toastr error!');
+
 
