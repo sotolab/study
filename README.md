@@ -137,10 +137,10 @@ https://www.leafcats.com/113
 
 각 임포트 해 주면 되겠다.
 
-    <script src="js/jquery-3.1.1.min.js"></script>
+    <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
     <!-- Toastr -->
-    <link href="css/plugins/toastr/toastr.min.css" rel="stylesheet">
-    <script src="js/plugins/toastr/toastr.min.js"></script>
+    <link rel="stylesheet" href="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.css" />
+   	<script src="//cdnjs.cloudflare.com/ajax/libs/toastr.js/latest/toastr.min.js"></script>
 
 
 Toastr는 기본적으로 아래 네개의 기본 함수를 제공한다.
