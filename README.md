@@ -263,4 +263,8 @@ parse()는 Hex로 변환, stringify()는 Hex를 원래 포맷으로 변환
     words: 48656c6c6f20776f726c6421
     utf8: Hello world!
 
+19 UTF-8 string length & byte counter
+
+https://mothereff.in/byte-counter
+
 
