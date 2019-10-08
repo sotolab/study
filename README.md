@@ -165,3 +165,9 @@ example
 https://codeseven.github.io/toastr/demo.html
 
 https://github.com/CodeSeven/toastr/blob/master/demo.html
+
+16  비트인포차트
+
+https://bitinfocharts.com/
+
+
