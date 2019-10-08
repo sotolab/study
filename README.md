@@ -171,3 +171,22 @@ https://github.com/CodeSeven/toastr/blob/master/demo.html
 https://bitinfocharts.com/
 
 
+17
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/aes.js"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/crypto-js/3.1.2/rollups/sha256.js"></script>
+    <script type="text/javascript">
+    
+    let message = "Hello World!!"; 
+    let password = "haveaniceday";
+    
+    let encrypt = CryptoJS.AES.encrypt(message, password);
+    let decrypted = CryptoJS.AES.decrypt(encrypt, password );
+ 
+    // toString 출력
+    let text = decrypted.toString(CryptoJS.enc.Utf8);
+    </script>
+
+
+
+
