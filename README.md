@@ -198,17 +198,17 @@ CryptoJS 라이브러리 이용 (CryptoJS Homepage)
 1. 각 해쉬함수 결과 계산하기
 입력메시지: 해쉬함수 테스트 메시지
 
-     CryptoJS.MD5(message): 3b3efaef60823b2e8ad278904f2eecde
+     CryptoJS.MD5(message): 3b3efaef60823b2e8ad278904f2eecde  (32bytes)
      
-     CryptoJS.SHA1(message): 46054dc97ba4c799f85c825b975dfbc32355c600
+     CryptoJS.SHA1(message): 46054dc97ba4c799f85c825b975dfbc32355c600  (40 bytes)
      
-     CryptoJS.SHA256(message): 80bced65611406b913ba0c177961b791012106744345a401afdcd3b0281c20b9
+     CryptoJS.SHA256(message): 80bced65611406b913ba0c177961b791012106744345a401afdcd3b0281c20b9  (64 bytes)
      
-     CryptoJS.SHA512(message): 86d4bab0777e49bc43c4f21d3706f3249d8a891720856869d3f6034f240f6bcf00414329211af7553ffb1290eb20ec769e51ff6580c604c1c2ba6fbee54471fd
+     CryptoJS.SHA512(message): 86d4bab0777e49bc43c4f21d3706f3249d8a891720856869d3f6034f240f6bcf00414329211af7553ffb1290eb20ec769e51ff6580c604c1c2ba6fbee54471fd  (128 bytes)
      
-     CryptoJS.SHA3(message): f8036624f0a2f702d21b36b66b6bdf738e1cb7a8f137e32f2a367a2752137f7d03669f474113732e297c86761aafbe88236938821e4eeaa6c8bba762edae6497
+     CryptoJS.SHA3(message): f8036624f0a2f702d21b36b66b6bdf738e1cb7a8f137e32f2a367a2752137f7d03669f474113732e297c86761aafbe88236938821e4eeaa6c8bba762edae6497  (128 bytes)
      
-     CryptoJS.RIPEMD160(message): 01eb85f019fafb66096a59b4bfd8c6fd48b75d42
+     CryptoJS.RIPEMD160(message): 01eb85f019fafb66096a59b4bfd8c6fd48b75d42  ( 40 bytes)
      
 
 2. 출력값 인코딩 바꾸기
