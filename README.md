@@ -190,6 +190,8 @@ https://bitinfocharts.com/
 
 18  CryptoJS 자바스크립트
 
+https://code.google.com/archive/p/crypto-js/
+
 CryptoJS 라이브러리 이용 (CryptoJS Homepage)
 자세한 내용은 소스보기로 보세요.
 1. 해쉬함수 계산
