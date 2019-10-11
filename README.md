@@ -315,3 +315,27 @@ index.js
     const logger = require('./middlewares/logger');
     app.use(logger()) // 로그 미들웨어 추가
 
+25  세션의 사용법과 express-session
+
+https://zzdd1558.tistory.com/178
+
+npm install --save express-session
+
+    let sessionParser = require('express-session');
+    let router = express.Router();
+
+    /** express-session 미들웨어를 사용하기위해 app에 등록*/
+    app.use(sessionParser({
+        secret: 'soto',
+        resave: true,
+        saveUninitialized: true
+    }));
+
+    router.route('/').get(function (req, res) {
+        req.session.user = {
+            "name" : "Master soto",
+            "createCurTime" : new Date()
+        }
+        console.log(`Have a nice day! `);
+    })
+
