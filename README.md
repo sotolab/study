@@ -343,8 +343,25 @@ npm install --save express-session
 
 https://subicura.com/2018/02/14/javascript-debugging.html
 
-27  ode.js 로의 개발을 하게 되면서 테스트 및 디버깅, 통계 등의 사용을 위해 로그를 남겨야할 필요성
+27  node.js 로의 개발을 하게 되면서 테스트 및 디버깅, 통계 등의 사용을 위해 로그를 남겨야할 필요성
 
 https://mungmungdog.tistory.com/34
+
+
+28  Debugging Node.js with Chrome DevTools
+
+https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-7c4a1b95ae27
+
+    $  node --inspect index.js
+    or
+    $ node --inspect-brk index.js
+    (# Break on the first statement of the script with --inspect-brk)
+
+    chrome://inspect
+    Click the Open dedicated DevTools for Node link.
+
+     $ node --inspect --debug-brk index.js
+
+
 
 
