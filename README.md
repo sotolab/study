@@ -343,4 +343,8 @@ npm install --save express-session
 
 https://subicura.com/2018/02/14/javascript-debugging.html
 
+27  ode.js 로의 개발을 하게 되면서 테스트 및 디버깅, 통계 등의 사용을 위해 로그를 남겨야할 필요성
+
+https://mungmungdog.tistory.com/34
+
 
