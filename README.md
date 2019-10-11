@@ -296,7 +296,22 @@ https://github.com/amand1996/Votechain
 
 https://github.com/Savjee/SavjeeCoin
 
+24  커스텀 모듈 logger
 
+http://jeonghwan-kim.github.io/series/2018/12/10/node-web-10_logger.html
 
+logger.js
 
+    const logger = () => (req, res, next) => {
+      const log = `${req.method} ${req.url}`
+      console.log(log)
+      next()
+    }
+
+    module.exports = logger
+
+index.js
+   
+    const logger = require('./middlewares/logger');
+    app.use(logger()) // 로그 미들웨어 추가
 
