@@ -363,5 +363,10 @@ https://medium.com/@paul_irish/debugging-node-js-nightlies-with-chrome-devtools-
      $ node --inspect --debug-brk index.js
 
 
+29  DTube App
+This is the main javascript application you can use on d.tube. This is probably the starting point for anyone wanting to contribute to d.tube.
 
+https://github.com/castonetwork/dtube
+
+https://github.com/castonetwork/dtube.git
 
