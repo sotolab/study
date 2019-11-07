@@ -375,3 +375,17 @@ https://github.com/castonetwork/dtube.git
 
 http://webprogramming.co.kr/index
 
+생활코딩, 칸 아카데미, 노마드 코더 입니다.
+생활코딩 
+ https://www.youtube.com/watch?v=tZooW6PritE&list=PLuHgQVnccGMDZP7FJ_ZsUrdCGH68ppvPb
+
+칸 아카데미 
+ https://ko.khanacademy.org/computing/hour-of-code/hour-of-html/pt/html-basics
+
+노마드 코더 
+ https://www.youtube.com/watch?v=pEE_uJ-joUA
+
+31
+
+
+
