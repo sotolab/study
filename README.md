@@ -385,7 +385,5 @@ http://webprogramming.co.kr/index
 노마드 코더 
  https://www.youtube.com/watch?v=pEE_uJ-joUA
 
-31
-
-
-
+31 NW.js를 통한 웹 언어로 데스크톱용 어플리케이션 생성 - 
+http://blog.engintruder.com/219
