@@ -407,4 +407,23 @@ http://busy.org/@urobotics/pc-1
 		});	
         });
 
+33 javascript button
+
+	<html>
+	<head>
+	<title>Insert title here</title>
+	</head>
+	<SCRIPT LAUNGUAGE='JAVASCRIPT'>                     // 자바 스크립트 시작
+		  function test(){                                          // test라는 함수 정의
+			     alert("버튼을 클릭하셨습니다.");           // 실행코드
+		   }
+	</SCRIPT>                                                        // 자바 스크립트 종료
+	<body>
+
+	<FORM>
+	       <INPUT type='BUTTON' value='버튼' onclick='test()'>  // 이벤트 부여
+	</FORM>
+
+	</body>
+	</html>
 
