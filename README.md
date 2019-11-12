@@ -400,18 +400,11 @@ http://busy.org/@urobotics/pc-1
  
  32. jQuery button event
  
-<script type="text/javascript">
-
-
-
+	<script type="text/javascript">
 	$(document).ready(function(){
-
-		
-
-		$(".buttons").bind("click", function(){
-
+           $(".buttons").bind("click", function(){
 			alert("click " + $(this).text());
-
-		});
+		});	
+        });
 
 
