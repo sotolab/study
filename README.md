@@ -453,3 +453,5 @@ https://www.sitepoint.com/build-a-simple-web-server-with-node-js/
 https://www.sitepoint.com/author/wancheta/
 
 
+38 How to debug the react-native
+https://www.sitepoint.com/tools-for-debugging-react-native/
