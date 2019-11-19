@@ -305,6 +305,9 @@ https://github.com/nambrot/blockchain-in-js
 
 https://github.com/sadarshannaiynar/js-blockchain
 
+https://github.com/anders94/blockchain-demo/
+
+
 24  커스텀 모듈 logger
 
 http://jeonghwan-kim.github.io/series/2018/12/10/node-web-10_logger.html
