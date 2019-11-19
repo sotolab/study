@@ -307,6 +307,8 @@ https://github.com/sadarshannaiynar/js-blockchain
 
 https://github.com/anders94/blockchain-demo/
 
+https://blockgeeks.com/guides/code-a-bitcoin-blockchain-in-javascript/
+
 
 24  커스텀 모듈 logger
 
