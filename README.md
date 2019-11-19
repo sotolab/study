@@ -472,3 +472,10 @@ https://www.sitepoint.com/tools-for-debugging-react-native/
 
 38 블록체인 전자지갑 
 https://github.com/blockchain/service-my-wallet-v3
+
+
+39  Creating Bitcoin Wallets in JS
+
+https://medium.com/blockthought/creating-bitcoin-wallets-in-js-69c0773c2954
+
+
