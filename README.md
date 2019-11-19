@@ -296,6 +296,9 @@ https://github.com/amand1996/Votechain
 
 https://github.com/Savjee/SavjeeCoin
 
+
+https://github.com/KrunalLathiya/JavascriptBlockchain
+
 24  커스텀 모듈 logger
 
 http://jeonghwan-kim.github.io/series/2018/12/10/node-web-10_logger.html
