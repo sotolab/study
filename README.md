@@ -301,6 +301,8 @@ https://github.com/KrunalLathiya/JavascriptBlockchain
 
 https://medium.com/caulink/javascript%EB%A1%9C-%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8-%EB%A7%8C%EB%93%A4%EA%B8%B0-1-fab57b25e90b
 
+https://github.com/nambrot/blockchain-in-js
+
 24  커스텀 모듈 logger
 
 http://jeonghwan-kim.github.io/series/2018/12/10/node-web-10_logger.html
