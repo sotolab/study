@@ -478,4 +478,6 @@ https://github.com/blockchain/service-my-wallet-v3
 
 https://medium.com/blockthought/creating-bitcoin-wallets-in-js-69c0773c2954
 
+40
 
+https://www.botreetechnologies.com/blog/how-to-build-a-react-native-android-bridge
