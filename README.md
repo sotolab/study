@@ -491,4 +491,37 @@ https://www.polarsparc.com/xhtml/
 
 https://ko.reactjs.org/community/examples.html
 
+43 uport
+https://github.com/uport-project/uport-cli-client
+
+https://medium.com/@yusulism/%EC%9E%90%EA%B8%B0-%EC%A3%BC%EA%B6%8C-%EC%8B%A0%EC%9B%90%EA%B3%BC-%EA%B5%AC%EC%84%B1-%EC%9A%94%EC%86%8C-self-sovereign-identity-452df0e36936
+
+https://github.com/uport-project/ethr-did
+
+https://github.com/uport-project/ethr-did-registry
+
+https://www.blockchainhub.kr/bbs/board.php?bo_table=symverse_lecture&wr_id=108
+
+https://brunch.co.kr/@metadium/92
+
+https://brunch.co.kr/@metadium/137
+
+https://brunch.co.kr/@metadium/126
+
+https://brunch.co.kr/@metadium/127
+
+https://brunch.co.kr/@metadium/126
+
+https://brunch.co.kr/@metadium/127
+
+
+44 DAppOAuth
+
+https://github.com/dapperlabs/dappauth.js
+
+45 xmind for windows
+
+https://software.naver.com/software/summary.nhn?softwareId=MFS_120452#
+
+
 
