@@ -411,6 +411,10 @@ http://busy.org/@urobotics/pc-1
 
  https://obfuscator.io/
  
+ https://github.com/javascript-obfuscator/javascript-obfuscator-ui
+ 
+ 
+ 
  
  32. jQuery button event
  
@@ -514,6 +518,17 @@ https://brunch.co.kr/@metadium/126
 
 https://brunch.co.kr/@metadium/127
 
+https://github.com/uport-project/ethr-did/blob/develop/package.json
+
+https://www.slideshare.net/SSIMeetup/decentralized-identifiers-dids-the-fundamental-building-block-of-selfsovereign-identity-ssi
+
+
+https://www.semanticscholar.org/paper/A-Blockchain-Based-Authentication-and-Security-for-Li-Peng/5ad482a8e54b752155cd32da8ee68cd9c4bb29e7
+
+
+https://github.com/blockstack-packages/blockchain-id-deprecated/wiki/Blockchain-Auth
+
+https://github.com/WebOfTrustInfo/rwot1-sf/blob/master/topics-and-advance-readings/Decentralized-Authentication-with-Blockchain-Auth.md
 
 44 DAppOAuth
 
@@ -523,5 +538,9 @@ https://github.com/dapperlabs/dappauth.js
 
 https://software.naver.com/software/summary.nhn?softwareId=MFS_120452#
 
+
+46 HTML study
+
+http://www.soen.kr/html5/
 
 
