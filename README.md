@@ -565,5 +565,9 @@ https://jwt.io/
 
 https://developer.uport.me/credentials/transactions
 
+52 Parcel - 쉽고 빠르고 강력한 웹앱
+
+https://heropy.blog/2018/01/20/parcel-1-start/
+
 
 
