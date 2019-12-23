@@ -573,6 +573,7 @@ https://heropy.blog/2018/01/20/parcel-1-start/
 53  solidity ether send
 
 https://github.com/rogargon/simple_bank
+https://www.codementor.io/@rogargon/exercise-simple-solidity-smart-contract-for-ethereum-blockchain-m736khtby
 
 
 	function Transfer(uint amount,address reciever){
