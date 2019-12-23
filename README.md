@@ -572,6 +572,9 @@ https://heropy.blog/2018/01/20/parcel-1-start/
 
 53  solidity ether send
 
+https://github.com/rogargon/simple_bank
+
+
 	function Transfer(uint amount,address reciever){
 	    // check sender balance is less than of amount which he wants to send.
 	    if(balance[msg.sender] < amount){
