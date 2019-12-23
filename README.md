@@ -599,3 +599,9 @@ https://fravoll.github.io/solidity-patterns/secure_ether_transfer.html
 		address(receiverAdr).transfer(_amount);
 	    }
 	}
+
+
+54 node login session mysql
+
+https://github.com/hanbyeolkang/nodeStudy/blob/master/session/app_session.js
+
