@@ -572,6 +572,51 @@ https://heropy.blog/2018/01/20/parcel-1-start/
 
 53  solidity ether send
 
+
+https://github.com/pbrudny/learning-solidity-2018
+
+
+ 1contract Fixed {
+ 2    ...
+ 3
+ 4    function withdraw() external {
+ 5        uint256 amount = balanceOf[msg.sender];
+ 6        balanceOf[msg.sender] = 0;
+ 7        (bool success, ) = msg.sender.call.value(amount)("");
+ 8        require(success, "Transfer failed.");
+ 9    }
+10}
+
+
+	contract TransferEtherFrom{
+		//Declaring an instance of TransferEtherTo contract
+		TransferEtherTo instance;
+
+	constructor(){
+	    //Initializing TransferEtherTo contract
+	    instance = new TransferEtherTo();
+	}
+
+	//Returns balance of TransferEtherFrom contract
+	function getBalance() returns(uint){
+	    return address(this).balance;
+	}
+
+	//Returns balance of TransferEtherTo contract
+	function getBalanceInstance() returns(uint){
+	    return instance.getBalance();
+	}
+	//Transfers ether to other contract
+	function transfer() payable{
+	    address(instance).send(msg.value);
+	}
+
+	//Fallback function to receive and transfer Ether
+	function() payable{
+	    address(instance).send(msg.value);
+	}
+	}
+
 https://github.com/rogargon/simple_bank
 https://www.codementor.io/@rogargon/exercise-simple-solidity-smart-contract-for-ethereum-blockchain-m736khtby
 
