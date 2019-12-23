@@ -1,3 +1,5 @@
+//https://github.com/etri-MIJI/promission/blob/blockchain/contracts/PMToken.sol
+
 pragma solidity ^0.4.18;
 //토큰이 이동할때마다 transfer함수가 호출된다!
 
