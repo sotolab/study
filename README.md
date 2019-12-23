@@ -570,4 +570,32 @@ https://developer.uport.me/credentials/transactions
 https://heropy.blog/2018/01/20/parcel-1-start/
 
 
+53  solidity ether send
 
+https://fravoll.github.io/solidity-patterns/secure_ether_transfer.html
+
+	// This code has not been professionally audited, therefore I cannot make any promises about
+	// safety or correctness. Use at own risk.
+	contract EtherReceiver {
+
+	    function () public payable {}
+	}
+
+	contract EtherSender {
+
+	    EtherReceiver private receiverAdr = new EtherReceiver();
+
+	    function sendEther(uint _amount) public payable {
+		if (!address(receiverAdr).send(_amount)) {
+		    //handle failed send
+		}
+	    }
+
+	    function callValueEther(uint _amount) public payable {
+		require(address(receiverAdr).call.value(_amount).gas(35000)());
+	    }
+
+	    function transferEther(uint _amount) public payable {
+		address(receiverAdr).transfer(_amount);
+	    }
+	}
