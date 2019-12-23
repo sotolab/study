@@ -572,6 +572,21 @@ https://heropy.blog/2018/01/20/parcel-1-start/
 
 53  solidity ether send
 
+	function Transfer(uint amount,address reciever){
+	    // check sender balance is less than of amount which he wants to send.
+	    if(balance[msg.sender] < amount){
+		return;
+	    }
+	   // decrease sender's balance. 
+	    balance[msg.sender] = balance[msg.sender] - amount;
+	   // increase reciever's balance.
+	    balance[reciever] = balance[reciever] + amount;  
+
+	  //  event
+	  //  transaction(msg.sender,reciever,amount);
+	}
+
+
 https://fravoll.github.io/solidity-patterns/secure_ether_transfer.html
 
 	// This code has not been professionally audited, therefore I cannot make any promises about
