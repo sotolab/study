@@ -2,6 +2,19 @@
 
 /**
  * Require the credentials that you entered in the .env file
+ * touch .env
+ */
+INFURA_ACCESS_TOKEN=xxxxxx
+ 
+# Rinkeby Testnet
+WALLET_ADDRESS=xxxxxx
+WALLET_PRIVATE_KEY=xxxxxx
+ 
+# Destination
+DESTINATION_WALLET_ADDRESS=xxxxxx
+
+/**
+ * Require the credentials that you entered in the .env file
  */
 require('dotenv').config()
  
