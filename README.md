@@ -603,5 +603,7 @@ https://fravoll.github.io/solidity-patterns/secure_ether_transfer.html
 
 54 node login session mysql
 
+https://strongstar.tistory.com/41
+
 https://github.com/hanbyeolkang/nodeStudy/blob/master/session/app_session.js
 
