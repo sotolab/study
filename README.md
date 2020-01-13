@@ -708,3 +708,7 @@ https://strongstar.tistory.com/41
 
 https://github.com/hanbyeolkang/nodeStudy/blob/master/session/app_session.js
 
+55 Token generator
+
+https://vittominacori.github.io/erc20-generator/
+
