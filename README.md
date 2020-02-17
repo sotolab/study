@@ -712,3 +712,6 @@ https://github.com/hanbyeolkang/nodeStudy/blob/master/session/app_session.js
 
 https://vittominacori.github.io/erc20-generator/
 
+56 HTML  charref
+
+https://dev.w3.org/html5/html-author/charref
