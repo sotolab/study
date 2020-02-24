@@ -715,3 +715,8 @@ https://vittominacori.github.io/erc20-generator/
 56 HTML  charref
 
 https://dev.w3.org/html5/html-author/charref
+
+57 장고로 인스타그램 만들기
+
+https://lhy.kr/lectures/django/instagram/
+
