@@ -1,3 +1,6 @@
+
+Part I. 파이썬 3.7 설치
+
 #!/usr/bin/env bash
 # 파이썬 3.7 설치
 $ sudo apt update
@@ -24,8 +27,25 @@ $ python -m venv myvenv
 $ source myvenv/bin/activate
 $ pip --version
  pip 10.0.1 from /hom
-
+$ pip install django
 $ deactivate
 
-New django Project "Hello, World"
+
+Part II. 장고 웹서버 실행
+
+$ cd workspace/django
+$ source myvenv/bin/activate
+$ django-admin startproject start
+$ cd start
+$ python manage.py runserver 0.0.0.0:8000
+
+Part III. 장고 웹서버 첫 프로젝트 생성
+
+$ python manage.py startapp hello
+$ 
+
+
+
+
+
 
