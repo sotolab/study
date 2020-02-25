@@ -1,5 +1,5 @@
 
-Part I. 파이썬 3.7 설치
+Part I. 파이썬 3.7 설치 (ubuntu 18.04 LTS)
 
     $ sudo apt update
     $ sudo apt install software-properties-common
