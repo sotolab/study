@@ -720,3 +720,9 @@ https://dev.w3.org/html5/html-author/charref
 
 https://lhy.kr/lectures/django/instagram/
 
+58 git local setting
+
+	git config --local user.name "a-user-only-for-this-repository"
+	git config --local user.email "and-an-email-as-well@gmail.com"
+	git config --list
+
