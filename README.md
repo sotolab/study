@@ -807,6 +807,8 @@ https://publicdomainvectors.org/ko/
 	
 	$ python3 vehicle_state.py
 	
+	( $ pip install -r requirements.pip)
+	
 
 
 
