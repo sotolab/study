@@ -809,6 +809,8 @@ https://publicdomainvectors.org/ko/
 	
 	( $ pip install -r requirements.pip)
 	
+	https://www.sauru.so/blog/python-web-frameworks/
+	
 
 
 
