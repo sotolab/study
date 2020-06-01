@@ -790,6 +790,8 @@ https://publicdomainvectors.org/ko/
 	$ sudo apt update
 	 $ sudo apt upgrade
 	 
+	$ sudo apt-get install python3
+	 
 	$ sudo apt install python-dev python-pip
 	
 	$ pip  install dronekit
@@ -803,7 +805,7 @@ https://publicdomainvectors.org/ko/
 	
 	$ cd dronekit-python/examples/vehicle_state
 	
-	$ python vehicle_state.py
+	$ python3 vehicle_state.py
 	
 
 
