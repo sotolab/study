@@ -785,4 +785,26 @@ https://superfamous.com/
 https://publicdomainvectors.org/ko/
 
 
+61 Dronekit
+
+	$ sudo apt update
+	 $ sudo apt upgrade
+	 
+	$ sudo apt install python-dev python-pip
+	
+	$ pip  install dronekit
+ 	$ pip  install dronekit-sitl
+	
+	$ sudo reboot
+	
+	$ dronekit -sitl copter
+	
+	$ git clone https://github.com/dronekit/dronekit-python.git
+	
+	$ cd dronekit-python/examples/vehicle_state
+	
+	$ python vehicle_state.py
+	
+
+
 
