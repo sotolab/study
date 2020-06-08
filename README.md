@@ -846,3 +846,26 @@ https://github.com/oauthinaction/oauth-in-action-code
 	Neo4j	Graph Database
 	OrientDB	Graph Database
 	ElasticSearch	Fulltext Search Database
+
+	Hosting for web applications
+	Provider	Platform
+	greenbaum cloud GmbH	Node.js
+	Hetzner VPS hosting	Node.js
+	EvenNode - Node.js hosting	Node.js
+	Heroku	Node.js
+	Roští.cz	Node.js
+	DigitalOcean VPS hosting)	Node.js
+	Amazon VPS hosting)	Node.js
+	Microsoft Azure	Node.js
+	IBM BlueMix	Node.js
+	OpenShift by Red Hat	Node.js
+	
+	Hosting for databases
+	Provider	Platform
+	Heroku Databases	PostgreSQL, Redis
+	mLab	MongoDB
+	Google Cloud Platform	NoSQL, RDBMS
+	Compose	MongoDB, RethinkDB, Redis, PostgreSQL, ElasticSearch
+	ObjectRocket	MongoDB, Redis
+	Amazon RDS	RDBMS
+	Microsoft Azure SQL Database	RDBMS, DocumentDB, Redis, Azure Search
