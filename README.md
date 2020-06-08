@@ -812,5 +812,20 @@ https://publicdomainvectors.org/ko/
 	https://www.sauru.so/blog/python-web-frameworks/
 	
 
+62  Single Page Application 개발 방법 비교
+	
+	https://poiemaweb.com/js-spa
+
+
+   	# 전통적 링크 방식  
+   	$ npm run link
+	# AJAX 방식
+	$ npm run ajax
+	# Hash 방식
+	$ npm run hash
+	# PJAX 방식
+	$ npm run pjax
+	
+	
 
 
