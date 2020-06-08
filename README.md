@@ -833,16 +833,16 @@ https://github.com/oauthinaction/oauth-in-action-code
 
 64 database type
 
-Name	Type
-We recommend to use PostgreSQL	RDBMS
-MySQL	RDBMS
-MariaDB	RDBMS
-Firebird	RDBMS
-SQLite	RDBMS
-MongoDB	NoSQL
-RethinkDB	NoSQL
-Redis	Key-Value
-FireBase	Key-Value
-Neo4j	Graph Database
-OrientDB	Graph Database
-ElasticSearch	Fulltext Search Database
+	Name	Type
+	We recommend to use PostgreSQL	RDBMS
+	MySQL	RDBMS
+	MariaDB	RDBMS
+	Firebird	RDBMS
+	SQLite	RDBMS
+	MongoDB	NoSQL
+	RethinkDB	NoSQL
+	Redis	Key-Value
+	FireBase	Key-Value
+	Neo4j	Graph Database
+	OrientDB	Graph Database
+	ElasticSearch	Fulltext Search Database
