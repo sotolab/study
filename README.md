@@ -826,6 +826,8 @@ https://poiemaweb.com/js-spa
 	# PJAX 방식
 	$ npm run pjax
 	
-	
+63 OAUTH 구현
+
+https://github.com/oauthinaction/oauth-in-action-code
 
 
