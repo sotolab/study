@@ -814,7 +814,7 @@ https://publicdomainvectors.org/ko/
 
 62  Single Page Application 개발 방법 비교
 	
-	https://poiemaweb.com/js-spa
+https://poiemaweb.com/js-spa
 
 
    	# 전통적 링크 방식  
