@@ -869,3 +869,9 @@ https://github.com/oauthinaction/oauth-in-action-code
 	ObjectRocket	MongoDB, Redis
 	Amazon RDS	RDBMS
 	Microsoft Azure SQL Database	RDBMS, DocumentDB, Redis, Azure Search
+
+
+65 React Native Expo Start
+
+https://wordbe.tistory.com/entry/React-Native-1-React-Native-%EC%8B%9C%EC%9E%91-Expo?category=1119676
+
