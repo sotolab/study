@@ -899,3 +899,8 @@ https://techbrij.com/deploy-smart-contract-nodejs-ethereum-dapp-part-5
 
 https://medium.com/day34/dapp-%EC%9D%B4%EB%8D%94%EB%A6%AC%EC%9B%80-%EC%8A%A4%EB%A7%88%ED%8A%B8%EC%BB%A8%ED%8A%B8%EB%9E%99%ED%8A%B8-nodejs%EB%A1%9C-%EA%B0%9C%EB%B0%9C%ED%95%98%EA%B8%B0-f423126902c0
 
+70  truffle metamask dapp
+
+https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
+
+
