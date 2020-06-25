@@ -891,3 +891,7 @@ https://keras.io/examples/
 https://github.com/MetaMask/metamask-extension
 
 
+68. node ethete metamask dapp
+
+https://techbrij.com/deploy-smart-contract-nodejs-ethereum-dapp-part-5
+
