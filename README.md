@@ -907,5 +907,8 @@ https://www.dappuniversity.com/articles/how-to-build-a-blockchain-app
 
 http://www.webprogramming.co.kr/
 
+72 앵귤러 첫걸음
+
+https://github.com/not-for-me/hb-angular-first
 
 
