@@ -912,3 +912,9 @@ http://www.webprogramming.co.kr/
 https://github.com/not-for-me/hb-angular-first
 
 
+73 파이썬의 스핑크스(Sphinx)를 이용한 문서화
+
+https://tech.ssut.me/start-python-documentation-using-sphinx/
+
+https://dandyrilla.github.io/2017-09-07/python-sphinx/
+
