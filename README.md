@@ -924,4 +924,10 @@ https://dandyrilla.github.io/2017-09-07/python-sphinx/
 https://www.flaticon.com/
 
 
+75 obd2 raspberry3 Bluetooth
+
+https://github.com/grimlockrocks/pi-bluetooth-obd
+
+pi-bluetooth-obd
+
 
