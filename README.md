@@ -960,4 +960,11 @@ pi-bluetooth-obd
 	 * <http://www.gnu.org/licenses/lgpl-3.0.html>.
 	 * #L%
 	 */
+	 
+	 
+77  Running an Angular 9 client app with the Node.js JWT Auth API
+
+https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with-example-api
+
+
 
