@@ -984,3 +984,7 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 79  URL 짧게
 
 	http://bitly.ws/
+
+80   구글 검색 크롤링
+
+	https://ai-creator.tistory.com/211
