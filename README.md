@@ -992,3 +992,8 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	
 	https://futurum.tistory.com/353
 	
+81  유투브 크롤링
+
+	https://shinminyong.tistory.com/10?category=835486
+	
+	
