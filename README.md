@@ -994,6 +994,8 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	
 81  유투브 크롤링
 
+	https://shinminyong.tistory.com/4
+
 	https://shinminyong.tistory.com/10?category=835486
 	
 	
