@@ -999,3 +999,7 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	https://shinminyong.tistory.com/10?category=835486
 	
 	
+82  파이썬 엑셀 
+
+        https://sozerodev.tistory.com/111
+
