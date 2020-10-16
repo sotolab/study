@@ -1007,11 +1007,13 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 
 	자바 JDK, JPype까지 설치했으면 이제 pip install을 사용해 KoNLPy 설치
 	1 자바 JDK를 설치해주어야 한다.
+	(jdk-15_windows-x64_bin.exe)
 	https://www.oracle.com/java/technologies/javase-downloads.html
 	
 	시스템 변수 편집에서 변수이름: JAVA_HOME, 변수 값: 본인이 설치한 jdk 경로를 아래와 같이 입력
 	제어판>시스템 및 보안>시스템>고급 시스템 설정>환경변수
-	사용자 환경 변수 편집에서 오른쪽 '새로 만들기'를 눌러 '%JAVA_HOME%/bin'
+	JAVA_HOME : C:\Program Files\Java\jdk-15
+	PATH : %JAVA_HOME%/bin
 	
 	2 install JPype1
 	$ pip install --upgrade setuptools
@@ -1020,11 +1022,13 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	https://visualstudio.microsoft.com/ko/downloads/
 	
 	Tools for Visual Studio 2019 >> Visual Studio 2019용 Build Tools
+	(vs_buildtools__634833165.1588257742.exe)
 	
 	https://visualstudio.microsoft.com/thank-you-downloading-visual-studio/?sku=BuildTools&rel=16
 
 	2 Install Microsoft Build Tools for Visual Studio 2019.
-	3 In Build tools, install C++ build tools and ensure the latest versions of MSVCv142 - VS 2019 C++ x64/x86 build tools and Windows 10 SDK are checked.
+	3 In Build tools, install C++ build tools and ensure the latest versions of MSVCv142
+	- VS 2019 C++ x64/x86 build tools and Windows 10 SDK are checked.
 	
 	4 The setuptools Python package version must be at least 34.4.0.
 	
