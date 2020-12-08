@@ -1060,4 +1060,8 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	-A ufw-before-input -s 41.104.8.106,178.238.232.85,198.136.62.200  -j DROP
 	
   
+  85 [Node.js] 무료 SSL 인증서 적용 및 HTTPS 서버 구축 방법
+  
+  https://hellominchan.tistory.com/5
+  
   
