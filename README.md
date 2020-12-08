@@ -1037,3 +1037,27 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	$  pip install KoNLPy
 
 
+84 ping 금지
+
+	$ sudo nano /etc/ufw/before.rules
+
+	-A ufw-before-input -p icmp --icmp-type destination-unreachable -j ACCEPT  → DROP으로 변경
+	-A ufw-before-input -p icmp --icmp-type source-quench -j ACCEPT   → DROP으로 변경
+	-A ufw-before-input -p icmp --icmp-type time-exceeded -j ACCEPT   → DROP으로 변경
+	-A ufw-before-input -p icmp --icmp-type parameter-problem -j ACCEPT   → DROP으로 변경
+	-A ufw-before-input -p icmp --icmp-type echo-request -j ACCEPT   → DROP으로 변경
+  	
+	$ sudo ufw reload
+	
+	특정 ip를 막을 때
+	
+	$ nano /etc/ufw/before.rules
+	
+	# End required lines
+	-A ufw-before-input -s 41.104.8.106  -j DROP
+	
+	# 여러 IP 차단할 때
+	-A ufw-before-input -s 41.104.8.106,178.238.232.85,198.136.62.200  -j DROP
+	
+  
+  
