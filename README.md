@@ -1065,3 +1065,41 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
   https://hellominchan.tistory.com/5
   
   
+86 Flutter
+
+	0 Flutter install
+
+	https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.22.4-stable.zip
+	
+	git clone https://github.com/flutter/flutter.git -b stable
+	
+	cd flutter
+	
+	add PATH the D:\workspace\flutter_project\setting\flutter\bin
+
+	1 open administrative shell & install chocolatey
+
+	$ @"%SystemRoot%\System32\WindowsPowerShell\v1.0\powershell.exe" -NoProfile -InputFormat None -ExecutionPolicy Bypass -Command "[System.Net.ServicePointManager]::SecurityProtocol = 3072; iex ((New-Object System.Net.WebClient).DownloadString('https://chocolatey.org/install.ps1'))" && SET "PATH=%PATH%;%ALLUSERSPROFILE%\chocolatey\bin"
+	
+	2 install android-sdk
+	$ choco install android-sdk
+	
+	3 install tools
+
+	$ cd C:\Android\android-sdk\tools\bin
+
+	.\sdkmanager.bat "platforms;android-29" "platform-tools" "build-tools;29.0.3"
+	
+	
+	λ flutter doctor
+	Doctor summary (to see all details, run flutter doctor -v):
+	[√] Flutter (Channel stable, 1.22.4, on Microsoft Windows [Version 10.0.19619.1000], locale ko-KR)
+
+	[!] Android toolchain - develop for Android devices (Android SDK version 29.0.3)
+	    ! Some Android licenses not accepted.  To resolve this, run: flutter doctor --android-licenses
+	[!] Android Studio (not installed)
+	[√] VS Code (version 1.51.1)
+	[!] Connected device
+	    ! No devices available
+
+	! Doctor found issues in 3 categories.
