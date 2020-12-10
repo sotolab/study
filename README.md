@@ -1106,3 +1106,7 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	    ! No devices available
 
 	! Doctor found issues in 3 categories.
+	
+	
+	$ flutter doctor --android-licenses
+	
