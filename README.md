@@ -1110,3 +1110,21 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	
 	$ flutter doctor --android-licenses
 	
+	
+	
+	flutter channel beta
+ 	flutter upgrade
+ 	flutter config --enable-web
+	flutter doctor
+	flutter devices
+	2 connected devices:
+
+	Chrome     • chrome     • web-javascript • Google Chrome 78.0.3904.108
+	Web Server • web-server • web-javascript • Flutter Tools
+	
+	## start myApp
+	flutter create project_name
+	cd project_name
+	flutter run
+	
+
