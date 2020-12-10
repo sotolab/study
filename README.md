@@ -1067,6 +1067,9 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
   
 86 Flutter
 
+	examples
+	https://github.com/Apress/beginning-app-development-with-flutter
+
 	0 Flutter install
 
 	https://storage.googleapis.com/flutter_infra/releases/stable/windows/flutter_windows_1.22.4-stable.zip
