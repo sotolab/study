@@ -1130,6 +1130,8 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 
 87 Foreign exchange rates API with currency conversion
 
+	https://www.xe.com/currencyconverter/convert/?Amount=1&From=USD&To=KRW
+
 	https://exchangeratesapi.io/
 	
 	GET https://api.exchangeratesapi.io/latest HTTP/1.1
