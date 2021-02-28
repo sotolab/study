@@ -1128,3 +1128,8 @@ https://jasonwatmore.com/post/2018/08/06/nodejs-jwt-authentication-tutorial-with
 	flutter run
 	
 
+87 Foreign exchange rates API with currency conversion
+
+	https://exchangeratesapi.io/
+
+
